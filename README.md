@@ -1,2 +1,3 @@
-# Recriando-pagina-Instagram
-Recriando a página de login do Instagram
+# Recriando a página do Instagram
+
+Projeo que recria a página de login do Instagram usando html e CSS
